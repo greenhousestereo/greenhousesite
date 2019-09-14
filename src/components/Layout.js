@@ -46,7 +46,7 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Solid State' },
+                { name: 'description', content: 'Green House Stereo' },
                 { name: 'keywords', content: 'site, web' },
               ]}
             >
