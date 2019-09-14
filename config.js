@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
+  //pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Green House Stereo',
   subHeading1: 'Green House Stereo is a grunge folk-rock band formed in Black Hills of South Dakota. The members of Green House Stereo have been playing together for the past decade. With them, they bring a huge variety of influences, from Jimi Hendrix to The White Stripes, Bob Dylan, Leftöver Crack, Elliott Smith, and Sublime.',
   subHeading2: 'Green House Stereo has recently come out of a two-year hiatus which resulted from a runaway frontman. During that time, the members of Green House Stereo formed several side projects, writing an abundance of new material and further developing the sound of the band in the process. With the return of the frontman, the members of Green House Stereo are beginning again.',
