@@ -7,8 +7,8 @@
     "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-solidstate.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Dustin Grey",
+    "email": "greenhousestereo@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -47,5 +47,5 @@
   "bugs": {
     "url": "https://github.com/anubhavsrivastava/gatsby-starter-solidstate/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-solidstate#readme"
+  "homepage": "https://www.greenhousestereo.com"
 }
