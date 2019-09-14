@@ -16,11 +16,8 @@ const IndexPage = () => (
 
       <div className="wrapper">
         <div className="inner">
-
         <div className="table-wrapper">
-
         </div>
-
 
         </div>
       </div>

@@ -65,7 +65,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Jonny “Brushfire” Williams</h2>
             <p>
-            Jonny is constantly surprising, quietly explosive, and simply brilliant. A natural talent, he has been a constant progressive force for the sound of Green House Stereo. Jonny may be meek, but he is never mild.
+            Jonny is constantly surprising, quietly explosive, and simply brilliant. A natural talent, he has been a progressive force for the sound of Green House Stereo from the beginning. Althgouh Jonny may be meek, he is never mild.
             </p>
             <p>
             Jonny is the drummer of Green House Stereo, though he often performs as keyboardist, percussionist, and banjoist. The man is unstoppable.

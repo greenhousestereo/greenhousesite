@@ -49,8 +49,6 @@ const IndexPage = () => (
               </div>
             </div>
           </form>
-
-
         </div>
 
       </div>
