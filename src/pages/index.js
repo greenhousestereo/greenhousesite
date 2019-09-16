@@ -65,7 +65,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Jonny “Brushfire” Williams</h2>
             <p>
-            Jonny is constantly surprising, quietly explosive, and simply brilliant. A natural talent, he has been a progressive force for the sound of Green House Stereo from the beginning. Althgouh Jonny may be meek, he is never mild.
+            Jonny is constantly surprising, quietly explosive, and simply brilliant. A natural talent, he has been a progressive force for the sound of Green House Stereo from the beginning. Althoug fuh Jonny may be meek, he is never mild.
             </p>
             <p>
             Jonny is the drummer of Green House Stereo, though he often performs as keyboardist, percussionist, and banjoist. The man is unstoppable.
@@ -80,7 +80,7 @@ const IndexPage = () => (
           <div className="content">
             <h2 className="major">Dustin “Star Fucker” Grey</h2>
             <p>
-            Dustin is a clumsy guitar player and probably the weakest member of Green House Stereo. He is a regular thief of the music created by the members of band and an irregular contributor to everything else in his life. He makes up for this by singing poorly, shouting loudly, kicking and flailing wildly, and always conducting himself with absolute honesty.
+            Dustin is a clumsy guitar player and probably the weakest member of Green House Stereo. He is a regular thief of the music created by the members of the band and an irregular contributor to everything else in his life. He makes up for this by singing poorly, shouting loudly, kicking and flailing wildly, and always conducting himself with absolute honesty.
             </p>
             <p>
             Dustin is the frontman and rhythm guitarist of Green House Stereo.
