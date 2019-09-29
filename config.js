@@ -37,7 +37,7 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://www.facebook.com/GreenHouseStereo',
     },
     {
       icon: 'fa-envelope-o',
