@@ -31,8 +31,8 @@ const IndexPage = () => (
                 <td>The Cave Collective</td>
                 <td>Rapid City, SD</td>
                 <td>5 October 2019</td>
-                <td>???</td>
-                <td>???</td>
+                <td>7:00p</td>
+                <td>$5</td>
               </tr>
               <tr>
                 <td>Spearfish Brewing Company</td>
